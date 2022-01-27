@@ -1,0 +1,10 @@
+.npmignore
+
+.vscode/*
+node_modules/*
+dist/*
+
+.replit
+
+package-lock.json
+
